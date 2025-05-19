@@ -1,9 +1,9 @@
-COMPANY: CODTECH IT SOLUTIONS   
-NAME: RANGDAL PAVANSAI    
-INTERN ID: CODF200   
-DOMAIN: Artificial Intelligence Markup Language (AIML Internship)   
-DURATION: 4 WEEKS   
-MENTOR: NEELA SANTHOSH   
+***COMPANY:*** CODTECH IT SOLUTIONS  
+***NAME:*** RANGDAL PAVANSAI  
+***INTERN ID:*** C0DF200  
+***DOMAIN:*** Artificial Intelligence Markup Language (AIML Internship)  
+***DURATION:*** 4 WEEKS
+***MENTOR:*** NEELA SANTHOSH
 
 # 🎨⚡ Neural Style Transfer with GPU Acceleration
 
